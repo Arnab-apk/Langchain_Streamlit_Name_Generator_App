@@ -16,7 +16,13 @@ An AI-powered web application that generates creative restaurant names and match
 
 ## 🚀 Demo
 
-The app generates:
+### 📹 Video Demo
+
+https://github.com/yourusername/restaurant-name-generator/assets/demo.mp4
+
+*Watch the app in action! The video shows the complete workflow from selecting a cuisine to generating restaurant names and menu items.*
+
+### What the app generates:
 - A unique, themed restaurant name based on your selected cuisine
 - A comprehensive list of 10 menu items that match the restaurant concept
 
