@@ -18,12 +18,10 @@ An AI-powered web application that generates creative restaurant names and match
 
 ### 📹 Video Demo
 
-> **Note**: After pushing to GitHub, you can embed the video using one of these methods:
-> 1. Upload `demo.mp4` directly to GitHub (if under 100MB)
-> 2. Upload to GitHub Releases and link it
-> 3. Upload to YouTube/Vimeo and embed the link
 
-For now, the demo video is included in the repository as `demo.mp4`.
+https://github.com/user-attachments/assets/37a359b0-30c4-4f15-92fc-aaac9c49cff8
+
+
 
 ### What the app generates:
 - A unique, themed restaurant name based on your selected cuisine
