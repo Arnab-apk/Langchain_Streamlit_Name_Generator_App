@@ -1,19 +1,68 @@
-# 🍽️ Restaurant Name Generator
+# 🍽️ AI Restaurant Name & Menu Generator
 
-An AI-powered web application that generates creative restaurant names and matching menu items based on your chosen cuisine. Built with Streamlit and LangChain.
+[![Python 3.12+](https://img.shields.io/badge/Python-3.12%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.54.0-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-Latest-1C3C3C.svg?style=for-the-badge&logo=LangChain&logoColor=white)](https://langchain.com/)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)](https://openai.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![Restaurant Name Generator](https://img.shields.io/badge/Python-3.12+-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.54.0-red.svg)
-![LangChain](https://img.shields.io/badge/LangChain-Latest-green.svg)
+> **Ignite your culinary creativity.** An intelligent web application that crafts unique restaurant concepts and curated menus instantly using the power of Generative AI.
+
+---
+
+## 📖 Table of Contents
+- [✨ Features](#-features)
+- [🚀 Live Demo](#-live-demo)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [⚙️ Installation](#️-installation)
+- [🔑 API Configuration](#-api-configuration)
+- [🧠 How It Works](#-how-it-works)
+- [📂 Project Structure](#-project-structure)
+- [🤝 Contributing](#-contributing)
+
+---
 
 ## ✨ Features
 
-- 🌍 **Multiple Cuisines**: Choose from Indian, Arabian, Mexican, Italian, American, Japanese, and Chinese cuisines
-- 🤖 **AI-Powered**: Uses OpenAI's GPT-3.5-turbo through OpenRouter to generate creative names and menus
-- 🎨 **Beautiful UI**: Professional, responsive design with custom styling
-- ⚡ **Real-time Generation**: Get instant results with loading animations
-- 📋 **Complete Menu Items**: Generates 10 matching menu items for each restaurant
+| Feature | Description |
+| :--- | :--- |
+| 🌍 **Global Cuisines** | Choose from 7+ major culinary styles including Indian, Italian, Japanese, and Mexican. |
+| 🤖 **AI-Powered Core** | Utilizes **GPT-3.5-turbo** via LangChain for context-aware, creative generation. |
+| ⚡ **Instant Results** | Real-time generation with zero lag, featuring smooth loading animations. |
+| 📋 **Full Menu Generation** | Doesn't just name the place—creates 10 matching, appetizing menu items. |
+| 🎨 **Modern UI** | Built with Streamlit for a responsive, clean, and professional user experience. |
 
+---
+
+## 🚀 Live Demo
+
+### 📹 Preview
+![Restaurant Generator Demo](https://github.com/user-attachments/assets/37a359b0-30c4-4f15-92fc-aaac9c49cff8)
+
+### 🎯 What You Get
+1. **The Brand:** A catchy, thematic restaurant name.
+2. **The Food:** A curated list of 10 dishes that fit the specific theme and cuisine selected.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** [Streamlit](https://streamlit.io/) (Web Framework)
+- **Orchestration:** [LangChain](https://www.langchain.com/) (LLM Logic)
+- **Model:** [OpenAI GPT-3.5](https://platform.openai.com/docs/models) (via OpenRouter)
+- **Language:** Python 3.12+
+
+---
+
+## ⚙️ Installation
+
+Follow these steps to set up the project locally.
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/yourusername/restaurant-name-generator.git](https://github.com/yourusername/restaurant-name-generator.git)
+cd restaurant-name-generator
+```
 ## 🚀 Demo
 
 ### 📹 Video Demo
